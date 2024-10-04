@@ -8,7 +8,7 @@ It is already included in the [GraphRAG core library repository](https://github.
 
 Takes source content and automatically generates a set of domain-specific indexing prompts.
 
-## description
+## Description
 
 https://www.microsoft.com/en-us/research/blog/graphrag-auto-tuning-provides-rapid-adaptation-to-new-domains/
 
